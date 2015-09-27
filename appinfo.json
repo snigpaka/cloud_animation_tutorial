@@ -1,0 +1,33 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "aurorasnigdha@yahoo.com",
+    "longName": "Animation Tutorial",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "data/clock_sequence.pdc",
+                "name": "CLOCK_SEQUENCE",
+                "type": "raw"
+            },
+            {
+                "file": "data/weather_image.pdc",
+                "name": "WEATHER_IMAGE",
+                "type": "raw"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Animation Tutorial",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "1f41b7dd-256c-4598-bc04-076e800a3342",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
